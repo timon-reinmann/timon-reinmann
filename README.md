@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Timon+Reinmann!;touch+touch+touch+touch;Du+checksch+nit!+🤷‍♂️;Insider+und+so" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Consolas&weight=700&duration=3000&pause=150&color=F72EEB&lines=Hi+there!+I'm+Timon+Reinmann.;Touch%2C+touch%2C+touch%2C+touch%2Ctouch;Tought+about+you+way+too;much%2C+much%2C+much%2C+much%2C+much;Over+overthinking;us%2C+us%2C+us%2C+us%2C+us />
 </h1>
 <div align="center">
 
   ![](https://github.com/timon-reinmann/timon-reinmann/blob/main/tenor.gif)
-  
+
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timon-reinmann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
