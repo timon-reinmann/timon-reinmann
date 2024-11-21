@@ -26,12 +26,12 @@
 
 ###
 
-<img align="center" src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/timon-reinmann/timon-reinmann/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/brxic/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/timon-reinmann/count.svg?"  />
 </div>
 
 ###
@@ -40,7 +40,7 @@
   <a href="https://discord.com/users/778910708310081549" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo"  />
   </a>
-  <a href="https://tryhackme.com/r/p/brxic" target="_blank">
+  <a href="https://tryhackme.com/r/p/timon-reinmann" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="30" height="20" alt="tryhackme logo"  />
   </a>
   <a href="https://www.instagram.com/ba_08sil/" target="_blank">
